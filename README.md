@@ -4,6 +4,6 @@ Map editor in isometric perspective
 
 made by:
 
-Jullien Olliver : HUd / Menu / buttons
+Jullien Olliver : HUD / Menu / buttons
 
 Nicolas Garde : MAP
