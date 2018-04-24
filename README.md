@@ -6,4 +6,4 @@ made by:
 
 Jullien Olliver : HUD / Menu / buttons
 
-Nicolas Garde : MAP
+Nicolas Garde : MAP / noise algorithm
