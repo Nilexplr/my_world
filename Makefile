@@ -171,12 +171,9 @@ wc:
 clean:
 	make clean -C./lib/
 	rm -f $(OBJ) $(MAIN:.c=.o) *.gc* test* vgcore.*
-	mr_clean
 
 fclean: clean
 	make fclean -C./lib/
 	rm -f $(NAME) a.out test
-	clear
-	tree
 
 re:	fclean all
